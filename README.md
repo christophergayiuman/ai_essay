@@ -12,3 +12,14 @@ Written by Christopher Ga Yiu Man
 
 ## Date:
 Feburary 3, 2021
+
+## Contact
+Christopher Man 
+- [christophergayiuman@gmail.com](christophergayiuman@gmail.com)
+- [cgym201@exeter.ac.uk](cgym201@exeter.ac.uk)
+
+Project Link: [https://github.com/christophergayiuman/ai_essay/blob/master/ai_essay.pdf](https://github.com/christophergayiuman/ai_essay/blob/master/ai_essay.pdf)
+
+## Acknowledgements
+* [Github Template Guide](https://github.com/othneildrew/Best-README-Template)
+* [Mastering Github Markdown](https://guides.github.com/features/mastering-markdown/)
